@@ -7,3 +7,4 @@ Yours Truly,
 🐇
 
 - [x] Day 1
+- [x] Day 2
